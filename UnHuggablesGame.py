@@ -18,8 +18,6 @@ import time
 ##########################################################################################################################
 
 # Define class for Player object.
-from inspect import getmembers
-
 
 class Player():
     name = "Huggy"
